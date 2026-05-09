@@ -4,7 +4,7 @@
 
 <br>
 
-> *"Köklerini algoritmanın sarsılmaz toprağına salmış, ufkunu Alekrythae’nin sınırsızlığına uzatmış bir **zanaatkâr**. Kodun estetiğinde, anlatılmamış dünyaların izini sürüyorum."*
+> *“A traveler through the distant realms of Alekrythae, guided by the enduring patterns of the Algorithm and the echoes of forgotten legends. I do not merely write; through the elegance of the Primordial Code, I seek to reveal worlds buried beneath the silence of ages and hidden beyond the gaze of fading stars.”*
 
 ---
 </div>
