@@ -13,8 +13,8 @@ Licensed under SP-SAL v7.0
 
 Commercial usage, redistribution, AI training, scraping, and derivative development are prohibited without written authorization.
 
-See:
-- LICENSE.md
+See:  
+[LICENSE.md](LICENSE.md)
 
 ---
 </div>
