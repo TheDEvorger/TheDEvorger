@@ -13,6 +13,8 @@ Licensed under SP-SAL v7.0
 
 Commercial usage, redistribution, AI training, scraping, and derivative development are prohibited without written authorization.
 
+Unless otherwise explicitly stated, all contents of this repository are licensed under SP-SAL v7.0.
+
 See:  
 [LICENSE.md](LICENSE.md)
 
