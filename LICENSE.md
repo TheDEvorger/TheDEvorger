@@ -51,8 +51,8 @@ This definition includes all associated intellectual property related to:
 • TheDevorger;
 • Alekrythae;
 • HawenForge;
-• Protocol Alakrytha;
-• Associated brands, universes, and visual identities.
+• Protocol Alekrythae;
+• Associated brands, fictional universes, cosmologies, lore, mythologies, histories, timelines, races, species, factions, dynasties, characters, environments, symbolic systems, terminology, languages, worldbuilding systems, narrative systems, and visual identities.
 
 1.2 “Licensor”
 
