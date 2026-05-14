@@ -424,7 +424,7 @@ Any ambiguity shall be interpreted in favor of maximum retention of rights by th
 
 For permissions, commercial licensing inquiries, or legal notices:
 
-ayberkerdem.dev@gmail.com
+thedevorger.alekrythae.dev@gmail.com
 
 ────────────────────────────────────────────────────────
 
