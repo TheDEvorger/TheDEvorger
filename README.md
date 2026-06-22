@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="alek1.png" alt="Alekrythae" width="100%">
+<img src="Alekrythae.png" alt="Alekrythae" width="100%">
 
 <br>
 
