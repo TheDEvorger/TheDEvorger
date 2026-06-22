@@ -1,5 +1,3 @@
-<div align="center">
-
 # THEDEVORGER UNIVERSAL PROPRIETARY SOFTWARE LICENSE
 
 ## Version 1.0
@@ -145,6 +143,16 @@ Covered Materials include, where applicable:
 * derivative versions;
 * accompanying materials; and
 * protectable selections, arrangements, adaptations, and compilations of the foregoing.
+* fictional universes;
+* lore and world-building materials;
+* stories, plots, narratives, and dialogue;
+* fictional characters, creatures, races, species, and civilizations;
+* factions, dynasties, organizations, and cultures;
+* fictional histories, timelines, genealogies, and cosmologies;
+* fictional languages, alphabets, terminology, and naming systems;
+* maps, locations, environments, symbols, and heraldry;
+* magic systems, power systems, fictional technologies, and rule systems;
+* associated character designs, visual identities, and narrative assets;
 
 Covered Materials apply whether the material is distributed as source code, binary code, an archive, an installer, a repository, a hosted service component, physical media, or any other format.
 
@@ -1061,15 +1069,196 @@ No patent right is granted for:
 * competing products; or
 * organizational use.
 
+Nothing in this Section shall be interpreted as a representation or warranty that any patent exists, has been applied for, is valid, or is enforceable in relation to the Covered Materials.
+
 ---
 
-# 19. USER CONTENT AND SOFTWARE OUTPUT
+# 19. FICTIONAL UNIVERSES, LORE, AND CREATIVE MATERIALS
 
-## 19.1 User-Owned Content
+## 19.1 Covered Creative Materials
+
+For purposes of this Section, “Covered Creative Materials” include all protectable fictional, narrative, artistic, and world-building materials that are:
+
+* included in the Covered Materials;
+* distributed with the Covered Materials;
+* incorporated into the Software or its documentation;
+* published by the Licensor in connection with an applicable project; or
+* expressly identified by the Licensor as governed by this License.
+
+Covered Creative Materials may include:
+
+* fictional universes;
+* lore and world-building materials;
+* stories, plots, narratives, scenes, and dialogue;
+* fictional characters, creatures, races, species, and civilizations;
+* factions, dynasties, organizations, religions, and cultures;
+* fictional histories, timelines, genealogies, and cosmologies;
+* fictional languages, alphabets, terminology, naming systems, and symbols;
+* maps, locations, environments, architecture, heraldry, and geographical systems;
+* magic systems, power systems, fictional technologies, and fictional rule systems;
+* character designs, clothing designs, weapons, artifacts, vehicles, and visual identities;
+* illustrations, concept art, models, textures, animations, audio, music, and narrative assets; and
+* protectable selections, arrangements, relationships, adaptations, and compilations of the foregoing.
+
+## 19.2 Ownership
+
+All applicable intellectual property rights in the Covered Creative Materials remain exclusively owned by the Licensor or the applicable third-party rights holder.
+
+No ownership, adaptation, publication, merchandising, franchise, trademark, or derivative-work right is transferred or granted except where expressly stated in a separate written agreement.
+
+## 19.3 No Reproduction or Adaptation Rights
+
+Unless separately authorized in writing by the Licensor, You may not:
+
+* reproduce;
+* copy;
+* publish;
+* redistribute;
+* translate;
+* adapt;
+* alter;
+* transform;
+* dramatize;
+* animate;
+* illustrate;
+* narrate;
+* perform;
+* publicly display;
+* commercialize;
+* merchandise;
+* sublicense;
+* incorporate into another work; or
+* create Derivative Materials based upon
+
+any Covered Creative Material.
+
+Private viewing or study permitted elsewhere in this License does not grant a right to publish, share, adapt, or distribute the Covered Creative Materials.
+
+## 19.4 Prohibited Uses
+
+Without prior written permission, You may not use Covered Creative Materials, whether modified or unmodified, in:
+
+* games;
+* video games;
+* tabletop games;
+* role-playing systems;
+* books;
+* novels;
+* stories;
+* films;
+* television productions;
+* animations;
+* comics;
+* webcomics;
+* podcasts;
+* audiobooks;
+* fan projects;
+* fan fiction;
+* wikis;
+* encyclopedias;
+* databases;
+* archives;
+* websites;
+* applications;
+* software;
+* virtual worlds;
+* metaverse environments;
+* merchandise;
+* clothing;
+* advertisements;
+* promotional materials;
+* social media projects;
+* crowdfunding campaigns;
+* AI-generated works;
+* AI prompts;
+* AI datasets;
+* training datasets;
+* embedding databases;
+* retrieval systems; or
+* any public, professional, organizational, or commercial project.
+
+## 19.5 Characters, Names, and Distinctive Elements
+
+You may not use protectable characters, distinctive names, fictional terminology, symbols, designs, narrative relationships, or other recognizable project elements in a manner that:
+
+* copies protected expression;
+* creates confusion regarding origin;
+* implies affiliation, approval, or endorsement;
+* presents an unofficial work as official;
+* exploits the reputation or goodwill of the Licensor; or
+* functions as an unauthorized continuation, adaptation, remake, or substitute.
+
+## 19.6 AI and Automated Uses
+
+Covered Creative Materials may not be used, directly or indirectly, as:
+
+* AI prompts;
+* model context;
+* training material;
+* fine-tuning material;
+* evaluation material;
+* dataset content;
+* embedding content;
+* retrieval content;
+* agent memory;
+* reference material for automated generation; or
+* input for systems intended to imitate, reconstruct, continue, reproduce, or derive substantially similar creative materials.
+
+This restriction applies subject to the Hosting Platform provisions and mandatory-law exceptions stated elsewhere in this License.
+
+## 19.7 General Ideas and Unprotectable Elements
+
+Nothing in this Section claims exclusive ownership over general ideas, abstract concepts, themes, genres, historical facts, common storytelling devices, general methods, functional principles, or other elements that are not protectable under applicable law.
+
+Copyright protection applies to original expression rather than an underlying idea alone.
+
+## 19.8 Independent Creation
+
+This Section does not prohibit genuinely independent creative works that:
+
+* were created without copying protected expression from the Covered Creative Materials;
+* do not reproduce distinctive characters, terminology, designs, narratives, or visual elements;
+* do not incorporate the Covered Materials;
+* do not misuse the Licensor’s names, brands, or Project Identity;
+* do not imply affiliation or endorsement; and
+* do not otherwise violate this License.
+
+Similarity arising solely from general ideas, common themes, genre conventions, historical sources, or independently developed concepts does not by itself constitute a violation.
+
+## 19.9 Third-Party Creative Materials
+
+Creative materials owned by third parties remain governed by their respective licenses and rights.
+
+Nothing in this Section grants the Licensor ownership over third-party material or overrides any separately applicable third-party license.
+
+## 19.10 Separate Permissions
+
+The Licensor may grant separate written permission for:
+
+* fan works;
+* translations;
+* adaptations;
+* publications;
+* games;
+* films;
+* merchandise;
+* public exhibitions;
+* educational projects;
+* commercial projects; or
+* other uses of Covered Creative Materials.
+
+No such permission exists until it is expressly provided in writing by the Licensor.
+
+
+---
+
+# 20. USER CONTENT AND SOFTWARE OUTPUT
+
+## 20.1 User-Owned Content
 
 The Licensor does not claim ownership of independently created content merely because that content is created, edited, displayed, stored, processed, or exported through the Software.
 
-## 19.2 Embedded Materials
+## 20.2 Embedded Materials
 
 You do not acquire ownership of Covered Materials included in or required by an output, including:
 
@@ -1085,7 +1274,7 @@ You do not acquire ownership of Covered Materials included in or required by an 
 * watermarks; or
 * licensed content.
 
-## 19.3 Output Restrictions
+## 20.3 Output Restrictions
 
 An output may not be distributed or used commercially where doing so would:
 
@@ -1099,7 +1288,7 @@ An output may not be distributed or used commercially where doing so would:
 * infringe rights; or
 * violate additional product terms.
 
-## 19.4 Responsibility for User Content
+## 20.4 Responsibility for User Content
 
 You are solely responsible for ensuring that Your content:
 
@@ -1113,13 +1302,13 @@ You are solely responsible for ensuring that Your content:
 
 ---
 
-# 20. THIRD-PARTY MATERIALS
+# 21. THIRD-PARTY MATERIALS
 
-## 20.1 Separate Licenses
+## 21.1 Separate Licenses
 
 Third-Party Materials remain governed by their respective licenses.
 
-## 20.2 No Override
+## 21.2 No Override
 
 This License does not:
 
@@ -1128,11 +1317,11 @@ This License does not:
 * impose this License on independently licensed third-party material; or
 * grant rights that the Licensor does not own.
 
-## 20.3 Compliance
+## 21.3 Compliance
 
 You are responsible for complying with all applicable third-party obligations.
 
-## 20.4 Notices
+## 21.4 Notices
 
 A repository or distribution may include:
 
@@ -1145,7 +1334,7 @@ A repository or distribution may include:
 
 Those notices form part of the relevant compliance information.
 
-## 20.5 No Third-Party Warranty
+## 21.5 No Third-Party Warranty
 
 The Licensor does not warrant the continued:
 
@@ -1160,13 +1349,13 @@ of Third-Party Materials.
 
 ---
 
-# 21. CONTRIBUTIONS
+# 22. CONTRIBUTIONS
 
-## 21.1 Submission
+## 22.1 Submission
 
 “Contribution” means code, documentation, artwork, translations, patches, suggestions, issue submissions, pull requests, designs, files, or other material intentionally submitted for possible inclusion in the Covered Materials.
 
-## 21.2 Contribution License
+## 22.2 Contribution License
 
 By intentionally submitting a Contribution, You grant the Licensor a perpetual, irrevocable, worldwide, royalty-free, fully paid, non-exclusive, transferable, and sublicensable license to:
 
@@ -1190,7 +1379,7 @@ By intentionally submitting a Contribution, You grant the Licensor a perpetual, 
 
 the Contribution for any lawful purpose and under any license terms.
 
-## 21.3 Contributor Representations
+## 22.3 Contributor Representations
 
 You represent and warrant that:
 
@@ -1202,13 +1391,13 @@ You represent and warrant that:
 * You have authority to grant the rights stated above; and
 * any employer or other rights holder has authorized the submission where necessary.
 
-## 21.4 Moral Rights
+## 22.4 Moral Rights
 
 To the maximum extent permitted by applicable law, You consent to the Licensor’s modification, adaptation, combination, publication, and commercialization of the Contribution and agree not to assert moral rights against such permitted use.
 
 Where moral rights cannot legally be waived, You grant every consent and permission lawfully available to enable the licensed uses.
 
-## 21.5 No Obligation
+## 22.5 No Obligation
 
 The Licensor has no obligation to:
 
@@ -1225,7 +1414,7 @@ The Licensor has no obligation to:
 
 a Contribution.
 
-## 21.6 Separate Agreements
+## 22.6 Separate Agreements
 
 The Licensor may require a separate Contributor License Agreement or copyright assignment before accepting a Contribution.
 
@@ -1233,9 +1422,9 @@ A separate signed agreement controls within its express scope.
 
 ---
 
-# 22. UPDATES, CHANGES, AND SUPPORT
+# 23. UPDATES, CHANGES, AND SUPPORT
 
-## 22.1 No Support Obligation
+## 23.1 No Support Obligation
 
 The Licensor has no obligation to provide:
 
@@ -1251,7 +1440,7 @@ The Licensor has no obligation to provide:
 * migration assistance; or
 * continued development.
 
-## 22.2 Changes
+## 23.2 Changes
 
 The Licensor may:
 
@@ -1267,21 +1456,21 @@ The Licensor may:
 * change commercial licensing options; or
 * publish future versions under different terms.
 
-## 22.3 License Version
+## 23.3 License Version
 
 A particular copy or release remains governed by the license version distributed with that copy or release unless You accept a later license or a separate agreement provides otherwise.
 
-## 22.4 No Retroactive Expansion
+## 23.4 No Retroactive Expansion
 
 A new license version does not automatically grant additional rights to an earlier release.
 
-## 22.5 No Retroactive Reduction of Valid Existing Permissions
+## 23.5 No Retroactive Reduction of Valid Existing Permissions
 
 A later license version does not retroactively reduce permissions validly exercised under an earlier version during full compliance, unless mandatory law or a separate accepted agreement provides otherwise.
 
 ---
 
-# 23. HIGH-RISK AND RESTRICTED USES
+# 24. HIGH-RISK AND RESTRICTED USES
 
 Unless separately authorized in writing, the Covered Materials may not be used in connection with:
 
@@ -1319,7 +1508,7 @@ Governmental, public-sector, military, law-enforcement, intelligence, and critic
 
 ---
 
-# 24. EXPORT CONTROL AND SANCTIONS
+# 25. EXPORT CONTROL AND SANCTIONS
 
 You must not export, re-export, transfer, provide, access, or use the Covered Materials in violation of:
 
@@ -1334,7 +1523,7 @@ You represent that You are legally permitted to receive and use the Covered Mate
 
 ---
 
-# 25. LEGALLY MANDATORY EXCEPTIONS
+# 26. LEGALLY MANDATORY EXCEPTIONS
 
 Nothing in this License prohibits conduct that:
 
@@ -1371,15 +1560,15 @@ This Section grants no voluntary permission broader than mandatory law.
 
 ---
 
-# 26. TERMINATION
+# 27. TERMINATION
 
-## 26.1 Automatic Termination
+## 27.1 Automatic Termination
 
 All permissions granted under this License terminate automatically and immediately upon breach.
 
 No prior notice is required.
 
-## 26.2 Consequences
+## 27.2 Consequences
 
 Upon termination, You must immediately:
 
@@ -1403,13 +1592,13 @@ Upon termination, You must immediately:
 18. delete unauthorized retrieval databases; and
 19. cease every activity relying upon a terminated permission.
 
-## 26.3 Reinstatement
+## 27.3 Reinstatement
 
 Permissions may be reinstated only by express written confirmation from the Licensor.
 
 Correction of a violation does not automatically reinstate rights.
 
-## 26.4 Independent Platform Rights
+## 27.4 Independent Platform Rights
 
 Termination of this License does not automatically revoke rights independently granted under mandatory Hosting Platform terms.
 
@@ -1417,7 +1606,7 @@ The Licensor may separately remove a repository, issue takedown notices, request
 
 ---
 
-# 27. ENFORCEMENT
+# 28. ENFORCEMENT
 
 Unauthorized activity may cause irreparable harm for which monetary compensation alone may be inadequate.
 
@@ -1458,7 +1647,7 @@ Nothing in this Section creates a remedy unavailable under applicable law.
 
 ---
 
-# 28. DISCLAIMER OF WARRANTIES
+# 29. DISCLAIMER OF WARRANTIES
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COVERED MATERIALS ARE PROVIDED:
 
@@ -1515,7 +1704,7 @@ You are solely responsible for:
 
 ---
 
-# 29. LIMITATION OF LIABILITY
+# 30. LIMITATION OF LIABILITY
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR:
 
@@ -1558,7 +1747,7 @@ Nothing in this License excludes liability that cannot lawfully be excluded, inc
 
 ---
 
-# 30. INDEMNIFICATION
+# 31. INDEMNIFICATION
 
 To the maximum extent permitted by applicable law, You agree to defend, indemnify, and hold harmless the Licensor and lawful successors from claims, proceedings, losses, liabilities, damages, judgments, penalties, costs, and reasonable legal expenses arising from:
 
@@ -1584,7 +1773,7 @@ This Section does not impose an indemnity prohibited by mandatory consumer or ot
 
 ---
 
-# 31. GOVERNING LAW
+# 32. GOVERNING LAW
 
 This License and disputes arising from or relating to it shall be governed by the laws of the Republic of Türkiye.
 
@@ -1594,7 +1783,7 @@ Mandatory laws and international treaties binding upon Türkiye remain applicabl
 
 ---
 
-# 32. JURISDICTION
+# 33. JURISDICTION
 
 Subject to mandatory consumer, procedural, and jurisdictional rules that cannot legally be waived, the courts and execution offices of Istanbul, Türkiye shall have exclusive jurisdiction over disputes arising from or relating to:
 
@@ -1619,7 +1808,7 @@ The Licensor may seek emergency, provisional, protective, injunctive, or enforce
 
 ---
 
-# 33. LANGUAGE
+# 34. LANGUAGE
 
 The controlling version of this License is the English version.
 
@@ -1629,7 +1818,7 @@ To the extent permitted by applicable law, the English version prevails where a 
 
 ---
 
-# 34. SEVERABILITY
+# 35. SEVERABILITY
 
 If any provision is held invalid, illegal, or unenforceable:
 
@@ -1642,7 +1831,7 @@ If modification is not legally possible, the invalid portion shall be severed.
 
 ---
 
-# 35. NO WAIVER
+# 36. NO WAIVER
 
 Failure or delay by the Licensor to enforce a right does not waive that right.
 
@@ -1660,7 +1849,7 @@ A waiver concerning one breach does not waive:
 
 ---
 
-# 36. ASSIGNMENT
+# 37. ASSIGNMENT
 
 You may not:
 
@@ -1688,7 +1877,7 @@ The Licensor may assign or transfer rights to:
 
 ---
 
-# 37. NO PARTNERSHIP OR AGENCY
+# 38. NO PARTNERSHIP OR AGENCY
 
 This License does not create:
 
@@ -1704,7 +1893,7 @@ This License does not create:
 
 ---
 
-# 38. FORCE MAJEURE
+# 39. FORCE MAJEURE
 
 The Licensor is not responsible for delay, interruption, unavailability, loss, or failure caused by circumstances beyond reasonable control, including:
 
@@ -1726,7 +1915,7 @@ The Licensor is not responsible for delay, interruption, unavailability, loss, o
 
 ---
 
-# 39. ENTIRE AGREEMENT
+# 40. ENTIRE AGREEMENT
 
 This License, together with:
 
@@ -1742,21 +1931,21 @@ A README, issue response, social media post, email discussion, advertisement, re
 
 ---
 
-# 40. INTERPRETATION
+# 41. INTERPRETATION
 
-## 40.1 Headings
+## 41.1 Headings
 
 Headings are for convenience and do not limit meaning.
 
-## 40.2 Including
+## 41.2 Including
 
 “Including” means “including without limitation.”
 
-## 40.3 Singular and Plural
+## 41.3 Singular and Plural
 
 The singular includes the plural and the plural includes the singular where context permits.
 
-## 40.4 Maximum Lawful Effect
+## 41.4 Maximum Lawful Effect
 
 This License shall be interpreted to give maximum lawful effect to:
 
@@ -1771,7 +1960,7 @@ This License shall be interpreted to give maximum lawful effect to:
 * separation of Hosting Platform rights; and
 * reservation of all ungranted rights.
 
-## 40.5 Not Open Source
+## 41.5 Not Open Source
 
 This License must not be interpreted as:
 
@@ -1785,7 +1974,7 @@ This License must not be interpreted as:
 
 ---
 
-# 41. SURVIVAL
+# 42. SURVIVAL
 
 The following provisions survive termination:
 
@@ -1816,7 +2005,7 @@ The following provisions survive termination:
 
 ---
 
-# 42. RESERVATION OF RIGHTS
+# 43. RESERVATION OF RIGHTS
 
 All rights not expressly granted are reserved by the Licensor.
 
@@ -1836,7 +2025,7 @@ No permission may be inferred from:
 
 ---
 
-# 43. SEPARATE LICENSING
+# 44. SEPARATE LICENSING
 
 The Licensor may offer separate licenses for:
 
@@ -1871,7 +2060,7 @@ No permission exists until express written authorization is issued by the Licens
 
 ---
 
-# 44. CONTACT
+# 45. CONTACT
 
 Requests concerning licensing, permissions, commercial use, distribution, integrations, contributions, legal notices, or other matters may be sent to:
 
@@ -1894,5 +2083,3 @@ Silence, non-response, negotiation, a draft agreement, or an informal discussion
 Copyright © 2026–present TheDevorger.
 All Rights Reserved.
 
-
-</div>
