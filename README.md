@@ -8,15 +8,21 @@
 
 ---
 
-⚠ Proprietary Source-Available Infrastructure  
-Licensed under SP-SAL v7.0
+## License
 
-Commercial usage, redistribution, AI training, scraping, and derivative development are prohibited without written authorization.
+This project is proprietary and is licensed under the
+TheDevorger Universal Proprietary Software License Version 1.0.
 
-Unless otherwise explicitly stated, all contents of this repository are licensed under SP-SAL v7.0.
+It is not open-source software.
+
+Personal and non-commercial use is permitted only within the
+limits stated in LICENSE.md. Commercial use, production use,
+redistribution, derivative distribution, and AI/ML training are
+prohibited without prior written permission.
 
 See:  
 [LICENSE.md](LICENSE.md)
 
 ---
+
 </div>
