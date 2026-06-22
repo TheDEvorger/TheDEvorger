@@ -1,9 +1,9 @@
 # THEDEVORGER UNIVERSAL PROPRIETARY SOFTWARE LICENSE
 
-## Version 1.0
+## Version 1.1
 
 **Effective Date:** 22 June 2026
-**SPDX-License-Identifier:** `LicenseRef-TheDevorger-UPSL-1.0`
+**SPDX-License-Identifier:** `LicenseRef-TheDevorger-UPSL-1.1`
 
 Copyright © 2026–present TheDevorger.
 All Rights Reserved.
@@ -141,8 +141,7 @@ Covered Materials include, where applicable:
 * upgrades;
 * modified versions;
 * derivative versions;
-* accompanying materials; and
-* protectable selections, arrangements, adaptations, and compilations of the foregoing.
+* accompanying materials; 
 * fictional universes;
 * lore and world-building materials;
 * stories, plots, narratives, and dialogue;
@@ -152,7 +151,8 @@ Covered Materials include, where applicable:
 * fictional languages, alphabets, terminology, and naming systems;
 * maps, locations, environments, symbols, and heraldry;
 * magic systems, power systems, fictional technologies, and rule systems;
-* associated character designs, visual identities, and narrative assets;
+* associated character designs, visual identities, and narrative assets; and
+* protectable selections, arrangements, adaptations, and compilations of the foregoing.
 
 Covered Materials apply whether the material is distributed as source code, binary code, an archive, an installer, a repository, a hosted service component, physical media, or any other format.
 
@@ -2002,6 +2002,7 @@ The following provisions survive termination:
 * interpretation;
 * survival; and
 * any provision that by its nature should survive.
+* fictional-universe, lore, and creative-material restrictions;
 
 ---
 
@@ -2075,10 +2076,10 @@ Silence, non-response, negotiation, a draft agreement, or an informal discussion
 ## END OF LICENSE
 
 **THEDEVORGER UNIVERSAL PROPRIETARY SOFTWARE LICENSE**
-**Version 1.0**
+**Version 1.1**
 
 **SPDX-License-Identifier:**
-`LicenseRef-TheDevorger-UPSL-1.0`
+`LicenseRef-TheDevorger-UPSL-1.1`
 
 Copyright © 2026–present TheDevorger.
 All Rights Reserved.
