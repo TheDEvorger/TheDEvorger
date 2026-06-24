@@ -525,7 +525,7 @@ Subject to continuous compliance with this License, the Licensor grants You a li
 8. test functionality privately;
 9. evaluate the Software for possible acquisition of a separate commercial license;
 10. make private local Modifications solely for personal learning, debugging, accessibility, compatibility testing, or experimentation; and
-11. create independent user content through the Software as permitted by Section 19.
+11. create independent user content through the Software as permitted by Section 20.
 
 No other rights are granted.
 
@@ -2000,9 +2000,10 @@ The following provisions survive termination:
 * assignment;
 * entire agreement;
 * interpretation;
+* fictional-universe, lore, and creative-material restrictions;
 * survival; and
 * any provision that by its nature should survive.
-* fictional-universe, lore, and creative-material restrictions;
+
 
 ---
 
