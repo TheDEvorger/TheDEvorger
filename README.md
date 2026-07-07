@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/Alekrythae.Core/Resources/Alekrythae.png" alt="Ałek’ryŧhæ Core" width="100%">
+<img src="Alekrythae.png" alt="Alekrythae" width="100%">
 
 # Ałek’ryŧhæ Core
 
