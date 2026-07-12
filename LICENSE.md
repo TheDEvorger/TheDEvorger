@@ -1,9 +1,9 @@
 # THEDEVORGER UNIVERSAL PROPRIETARY SOFTWARE LICENSE
 
-## Version 1.1
+## Version 1.2
 
-**Effective Date:** 22 June 2026
-**SPDX-License-Identifier:** `LicenseRef-TheDevorger-UPSL-1.1`
+**Effective Date:** 12 July 2026
+**SPDX-License-Identifier:** `LicenseRef-TheDevorger-UPSL-1.2`
 
 Copyright © 2026–present TheDevorger.
 All Rights Reserved.
@@ -28,7 +28,7 @@ This License governs intellectual property and usage rights relating to the Cove
 
 ## 1.1 Licensor
 
-“Licensor” means TheDevorger and any lawful successor, assignee, or entity expressly designated by TheDevorger as the rights holder of the applicable Covered Materials.
+“Licensor” means the natural person who publishes under the pseudonym “TheDevorger”, together with any lawful successor, assignee, or entity expressly designated in writing by that person as the rights holder of the applicable Covered Materials. The use of a pseudonym does not waive, transfer, or limit any right of the Licensor.
 
 Licensing and legal contact:
 
@@ -445,6 +445,8 @@ Where a separately signed commercial agreement conflicts with this License, the 
 Mere viewing of a public repository through a Hosting Platform does not by itself constitute acceptance of this License beyond rights and obligations imposed by applicable law or the Hosting Platform’s terms.
 
 By exercising any permission granted under this License, including by downloading, cloning, installing, compiling, executing, modifying, or retaining the Covered Materials, You accept and agree to comply with this License.
+
+Where the Software presents this License through an installer, first-run screen, account flow, download flow, or other interface and requests affirmative assent, selecting an acceptance control or otherwise affirmatively assenting constitutes acceptance of this License.
 
 If You do not accept this License, You must not exercise any permission granted by it.
 
@@ -1219,7 +1221,7 @@ This Section does not prohibit genuinely independent creative works that:
 * were created without copying protected expression from the Covered Creative Materials;
 * do not reproduce distinctive characters, terminology, designs, narratives, or visual elements;
 * do not incorporate the Covered Materials;
-* do not misuse the Licensor’s names, brands, or Project Identity;
+* do not misuse the Licensor’s names, brands, or distinctive project identity;
 * do not imply affiliation or endorsement; and
 * do not otherwise violate this License.
 
@@ -2077,11 +2079,10 @@ Silence, non-response, negotiation, a draft agreement, or an informal discussion
 ## END OF LICENSE
 
 **THEDEVORGER UNIVERSAL PROPRIETARY SOFTWARE LICENSE**
-**Version 1.1**
+**Version 1.2**
 
 **SPDX-License-Identifier:**
-`LicenseRef-TheDevorger-UPSL-1.1`
+`LicenseRef-TheDevorger-UPSL-1.2`
 
 Copyright © 2026–present TheDevorger.
 All Rights Reserved.
-
