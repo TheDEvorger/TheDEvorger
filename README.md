@@ -680,11 +680,11 @@ Unofficial mirrors, modified packages, converted applications, repackaged Core b
 
 ## Maintainer
 
-Developed and maintained under the **TheDevorger** identity.
+Developed and maintained under the **TheDEvorger** identity.
 
 Licensing and legal contact:
 
-**[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
+**[TheDEvorger.alekrythae.dev@gmail.com](mailto:TheDEvorger.alekrythae.dev@gmail.com)**
 
 ---
 
