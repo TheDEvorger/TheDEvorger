@@ -2,7 +2,7 @@
 
 <img src="Alekrythae.png" alt="Ałek’ryŧhæ" width="100%">
 
-# Ałek’ryŧhæ
+# TheDEvorger's Ałek’ryŧhæ
 
 ### A shared software ecosystem powered by Ałek’ryŧhæ Core and `.alek` applications
 
