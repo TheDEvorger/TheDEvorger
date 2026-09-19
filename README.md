@@ -698,12 +698,11 @@ Unofficial mirrors, modified packages, converted applications, repackaged Core b
 
 Developed and maintained under the **TheDEvorger** identity.
 
-Licensing and legal contact:
+General contact:  
+**[ayberkerdem.dev@gmail.com](mailto:ayberkerdem.dev@gmail.com)**
 
-**[ayberkerdem.dev@gmail.com](mailto:ayberkerdem.dev@gmail.com)**  
+Licensing and legal contact:  
 **[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
-
----
 
 ---
 
