@@ -2,19 +2,35 @@
 
 <img src="Alekrythae.png" alt="Ałek’ryŧhæ" width="100%">
 
-# TheDEvorger's Ałek’ryŧhæ
+# TheDEvorger
 
-### A shared software ecosystem powered by Ałek’ryŧhæ Core and `.alek` applications
+### Mechatronics Engineer • C#/.NET • JavaScript • Flutter/Dart
 
-**One Core. Many `.alek` applications.**
+Building desktop, web, and mobile applications while developing the **Ałek’ryŧhæ** software ecosystem.
 
-Built with technologies including **C#**, **.NET**, **WebView2**, **React**, **TypeScript**, **HTML**, **CSS**, **JavaScript**, **SQLite**, and **JSON**.
+**Open to freelance projects and international opportunities.**
 
 </div>
 
 ---
 
+## Ałek’ryŧhæ
+
+**One Core. Many `.alek` applications.**
+
+A shared software ecosystem powered by **Ałek’ryŧhæ Core** and `.alek` applications.
+
+Built with technologies including **C#**, **.NET**, **WebView2**, **React**, **TypeScript**, **HTML**, **CSS**, **JavaScript**, **SQLite**, and **JSON**.
+
+---
+
 ## About
+
+I am a Mechatronics Engineer developing software across desktop, web, and mobile platforms.
+
+My current development stack includes **C#/.NET**, **JavaScript**, and **Flutter/Dart**, supported by technologies such as React, TypeScript, HTML, CSS, SQLite, JSON, and WebView2.
+
+Alongside my independent software projects, I am building **Ałek’ryŧhæ**, a shared software ecosystem centered around the Ałek’ryŧhæ Core runtime and `.alek` applications.
 
 **Ałek’ryŧhæ** is an independent software ecosystem built around a shared Windows runtime named **Ałek’ryŧhæ Core** and applications distributed in the custom **`.alek` application format**.
 
@@ -684,7 +700,7 @@ Developed and maintained under the **TheDEvorger** identity.
 
 Licensing and legal contact:
 
-**[TheDEvorger.alekrythae.dev@gmail.com](mailto:TheDEvorger.alekrythae.dev@gmail.com)**
+**[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
 
 ---
 
