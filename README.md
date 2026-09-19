@@ -700,9 +700,16 @@ Developed and maintained under the **TheDEvorger** identity.
 
 Licensing and legal contact:
 
-**[ayberkerdem.dev@gmail.com](mailto:ayberkerdem.dev@gmail.com)**
+**[ayberkerdem.dev@gmail.com](mailto:ayberkerdem.dev@gmail.com)**  
 **[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
 
 ---
 
+---
+
 > **One Core. Many `.alek` applications. One evolving software ecosystem.**
+
+<p align="center">
+© 2026 TheDEvorger. All rights reserved.<br>
+Ałek’ryŧhæ and associated software, documentation, assets, and application packages are governed by their respective LICENSE.md files.
+</p>
