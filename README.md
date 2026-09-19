@@ -700,6 +700,7 @@ Developed and maintained under the **TheDEvorger** identity.
 
 Licensing and legal contact:
 
+**[ayberkerdem.dev@gmail.com](mailto:ayberkerdem.dev@gmail.com)**
 **[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
 
 ---
