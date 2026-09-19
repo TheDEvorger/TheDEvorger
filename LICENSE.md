@@ -2317,7 +2317,7 @@ No permission exists until express written authorization is issued by the Licens
 
 Requests concerning licensing, permissions, commercial use, distribution, Core integration, `.alek` Application distribution, package-format implementation, compatibility, contributions, legal notices, or other matters may be sent to:
 
-**[TheDEvorger.alekrythae.dev@gmail.com](mailto:TheDEvorger.alekrythae.dev@gmail.com)**
+**[thedevorger.alekrythae.dev@gmail.com](mailto:thedevorger.alekrythae.dev@gmail.com)**
 
 Sending a request does not grant permission.
 
