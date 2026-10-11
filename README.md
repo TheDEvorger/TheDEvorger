@@ -12,7 +12,7 @@
 
 <!-- Do not replace the original wordmark with a simplified SVG or font. -->
 
-# TheDEvorger
+# 🌙 TheDEvorger of Ałek’ryŧhæ 💠
 
 ### Ayberk Erdem
 
