@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="Alekrythae-v2.png" alt="Original Ałek’ryŧhæ calligraphic artwork" width="100%" />
+<img src="https://raw.githubusercontent.com/TheDEvorger/TheDEvorger/main/Alekrythae-v2.png" alt="Ałek’ryŧhæ cosmic banner" width="100%" />
 
 <!-- Do not replace the original wordmark with a simplified SVG or font. -->
 
