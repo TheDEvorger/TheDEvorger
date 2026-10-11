@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Decorative engineering artwork">
+<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#14698d" stop-opacity="0"/><stop offset="0.5" stop-color="#14698d" stop-opacity=".8"/><stop offset="1" stop-color="#14698d" stop-opacity="0"/></linearGradient></defs>
+        <path d="M45 36H510M690 36H1155" stroke="url(#fade)" stroke-width="1.5" fill="none"/>
+        <path d="M600 8 626 36 600 64 574 36Z" fill="none" stroke="#90703d" stroke-width="1.6"/>
+        <path d="M600 19 616 36 600 53 584 36Z" fill="none" stroke="#14698d" stroke-width="1"/>
+        <circle cx="600" cy="36" r="4" fill="#18395c"/>
+        <path d="M535 36q16-22 34 0-18 22-34 0Zm130 0q-16-22-34 0 18 22 34 0Z" fill="none" stroke="#90703d" stroke-opacity=".72"/>
+        <circle cx="90" cy="36" r="2.5" fill="#90703d"/><circle cx="1110" cy="36" r="2.5" fill="#90703d"/>
+</svg>
