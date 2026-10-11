@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="220" viewBox="0 0 1280 220" role="img" aria-labelledby="title desc">
+<title id="title">Engineering priorities</title><desc id="desc">Architecture, experience, and reliability.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#061225"/><stop offset="0.56" stop-color="#0d1c36"/><stop offset="1" stop-color="#07142a"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7fb8da"/><stop offset="0.5" stop-color="#d6edff"/><stop offset="1" stop-color="#7c9fda"/></linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#142945"/><stop offset="1" stop-color="#0b1b33"/></linearGradient>
+  <radialGradient id="moon"><stop offset="0" stop-color="#c6eafa" stop-opacity=".25"/><stop offset="1" stop-color="#6ba5ce" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1279" height="219" rx="20" fill="url(#bg)" stroke="#2d486d" stroke-width="1"/>
+<circle cx="1100" cy="-18" r="200" fill="url(#moon)"/>
+<circle cx="357" cy="115" r="1.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="596" cy="130" r="1" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="1069" cy="54" r="1" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="48" cy="102" r="1.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="316" cy="200" r="1" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="106" cy="119" r="1.7" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="924" cy="16" r="1.3" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="1038" cy="185" r="0.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="774" cy="13" r="1" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="201" cy="39" r="0.7" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="349" cy="149" r="1.3" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="1012" cy="46" r="1" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="96" cy="128" r="1" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="424" cy="61" r="0.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="1167" cy="129" r="1.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="718" cy="45" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="767" cy="123" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1012" cy="106" r="1.3" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="211" cy="48" r="1.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="1026" cy="25" r="1" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="672" cy="150" r="0.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="368" cy="168" r="1.3" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="729" cy="203" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="231" cy="51" r="0.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="898" cy="103" r="1" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="95" cy="181" r="1" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="354" cy="197" r="0.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1025" cy="137" r="1.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="526" cy="70" r="1" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="161" cy="120" r="1.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="1009" cy="22" r="1.3" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="548" cy="176" r="1.3" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="879" cy="71" r="1" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="162" cy="94" r="1" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="1000" cy="20" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="1096" cy="194" r="1.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="454" cy="101" r="1" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1251" cy="205" r="1.7" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="1210" cy="130" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="1114" cy="158" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="40" cy="105" r="1" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="68" cy="75" r="1.3" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="531" cy="157" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="850" cy="200" r="1" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="310" cy="32" r="1.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="402" cy="14" r="1.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="167" cy="38" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="642" cy="145" r="1.3" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="1031" cy="64" r="1" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="396" cy="104" r="1" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="1146" cy="201" r="0.7" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="1053" cy="198" r="0.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="813" cy="126" r="0.7" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="1181" cy="52" r="1" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1259" cy="88" r="0.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="816" cy="47" r="1.3" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="624" cy="136" r="1.7" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="221" cy="147" r="0.7" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="1238" cy="196" r="1.3" fill="#d9f5ff" opacity="0.45"/>
+<circle cx="655" cy="82" r="1" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="687" cy="59" r="1.3" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="671" cy="176" r="1.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="175" cy="174" r="0.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="937" cy="137" r="0.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="926" cy="128" r="1.7" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="164" cy="65" r="0.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="908" cy="18" r="1" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1227" cy="111" r="1.7" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="504" cy="110" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1016" cy="66" r="0.7" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="1002" cy="52" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="1258" cy="63" r="1.7" fill="#d9f5ff" opacity="0.56"/>
+<circle cx="1260" cy="186" r="1.3" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="1005" cy="135" r="1.7" fill="#d9f5ff" opacity="0.26"/>
+<circle cx="802" cy="142" r="0.7" fill="#d9f5ff" opacity="0.2"/>
+<circle cx="660" cy="59" r="1.3" fill="#d9f5ff" opacity="0.34"/>
+<circle cx="317" cy="31" r="1" fill="#d9f5ff" opacity="0.15"/>
+<circle cx="1089" cy="85" r="1.7" fill="#d9f5ff" opacity="0.56"/>
+<path d="M30 28 H1250" stroke="#324e73" opacity=".7"/>
+<path d="M30 192 H1250" stroke="#324e73" opacity=".7"/>
+<text x="42" y="22" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="3" fill="#9ab9d5">THEDEVORGER / ENGINEERING VALUES</text>
+<rect x="42" y="43" width="384" height="133" rx="13" fill="url(#card)" stroke="#476182" stroke-width="1"/>
+<rect x="43" y="44" width="382" height="4" rx="2" fill="url(#accent)" opacity=".65"/>
+<text x="63" y="84" fill="#9dc5df" font-size="14" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">01 / SYSTEM PRINCIPLE</text>
+<text x="63" y="125" fill="#f1f7ff" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif" letter-spacing=".7">ARCHITECTURE</text>
+<text x="63" y="151" fill="#a9bfd6" font-size="13.5" font-family="Segoe UI,Arial,sans-serif">Clear boundaries · composable systems</text>
+<rect x="448" y="43" width="384" height="133" rx="13" fill="url(#card)" stroke="#476182" stroke-width="1"/>
+<rect x="449" y="44" width="382" height="4" rx="2" fill="url(#accent)" opacity=".65"/>
+<text x="469" y="84" fill="#9dc5df" font-size="14" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">02 / SYSTEM PRINCIPLE</text>
+<text x="469" y="125" fill="#f1f7ff" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif" letter-spacing=".7">EXPERIENCE</text>
+<text x="469" y="151" fill="#a9bfd6" font-size="13.5" font-family="Segoe UI,Arial,sans-serif">Legible interfaces · intentional motion</text>
+<rect x="854" y="43" width="384" height="133" rx="13" fill="url(#card)" stroke="#476182" stroke-width="1"/>
+<rect x="855" y="44" width="382" height="4" rx="2" fill="url(#accent)" opacity=".65"/>
+<text x="875" y="84" fill="#9dc5df" font-size="14" font-family="Segoe UI,Arial,sans-serif" letter-spacing="2">03 / SYSTEM PRINCIPLE</text>
+<text x="875" y="125" fill="#f1f7ff" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif" letter-spacing=".7">RELIABILITY</text>
+<text x="875" y="151" fill="#a9bfd6" font-size="13.5" font-family="Segoe UI,Arial,sans-serif">Validation · recoverability · trust</text>
+
+</svg>
