@@ -852,6 +852,8 @@ before responsible handling is possible.
 
 </details>
 
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 **Ałek’ryŧhæ** &nbsp;·&nbsp; **TheDEvorger**
