@@ -812,6 +812,8 @@ currently offered commercially or at a particular level of expertise.
 
 </div>
 
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
 ## License, Security & Attribution
 
 This profile is an **engineering introduction**, not a license grant, a product
@@ -851,8 +853,6 @@ before responsible handling is possible.
 - Neither project status nor software suitability should be inferred solely from promotional language.
 
 </details>
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 
