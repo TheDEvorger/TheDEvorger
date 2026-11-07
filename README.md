@@ -13,7 +13,8 @@
 <!-- Do not replace the original wordmark with a simplified SVG or font. -->
 
 # 🌙 TheDEvorger of Ałek’ryŧhæ 💠
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=8BBEFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ayberk+Erdem!;Mechatronics+Engineer+%26+Software+Developer;C%23%2F.NET+%7C+JavaScript+%7C+React+%7C+Flutter;Engineering+Ideas+into+Real+Software;Open+to+International+Opportunities)](https://github.com/TheDEvorger)
 
 ### Ayberk Erdem
 
