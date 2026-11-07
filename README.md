@@ -15,7 +15,6 @@
 # 🌙 TheDEvorger of Ałek’ryŧhæ 💠
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1200&color=8BBEFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ayberk+Erdem!;Mechatronics+Engineer+%26+Software+Developer;C%23%2F.NET+%7C+JavaScript+%7C+React+%7C+Node.JS;Engineering+Ideas+into+Real+Software;Open+to+International+Opportunities)](https://github.com/TheDEvorger)
-
 ### Ayberk Erdem
 
 **Mechatronics Engineer** &nbsp;·&nbsp; **Software Developer** &nbsp;·&nbsp; **Systems-Oriented Builder**
