@@ -26,6 +26,8 @@ Building across **desktop**, **web**, and **mobile**, with a growing emphasis on
 
 **Open to international opportunities and meaningful collaborations.**
 
+### ⚠️ ATTENTION PLEASE! READ THIS CAREFULLY! ⚠️
+
 🌙 **Follow Analytics:** I periodically monitor my followers using custom software. If you unfollow, I return the favor. Fair is fair. 🤝
 
 
