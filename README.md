@@ -26,6 +26,7 @@ Building across **desktop**, **web**, and **mobile**, with a growing emphasis on
 **C# / .NET**, **JavaScript / TypeScript**, and **Flutter / Dart**.
 
 **Open to international opportunities and meaningful collaborations.**
+🌙 **Follow Analytics:** I periodically monitor my followers using custom software. If you unfollow, I return the favor. Fair is fair. 🤝
 
 
 
