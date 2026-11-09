@@ -40,14 +40,14 @@ Building across **desktop**, **web**, and **mobile**, with a growing emphasis on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/avaloniaui/8B44AC" height="38" alt="Avalonia UI" title="Avalonia UI" />
-  <img src="https://cdn.simpleicons.org/tauri/FFC131" height="38" alt="Tauri" title="Tauri" />
-  <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square" height="38" alt="WebView2" title="Microsoft Edge WebView2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="Flutter" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="Dart" title="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/avaloniaui/8B44AC" height="38" alt="Avalonia UI" title="Avalonia UI" />
+  <img src="https://cdn.simpleicons.org/tauri/FFC131" height="38" alt="Tauri" title="Tauri" />
+  <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square" height="38" alt="WebView2" title="Microsoft Edge WebView2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="38" alt="Visual Studio" title="Visual Studio" />
