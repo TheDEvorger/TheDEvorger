@@ -36,13 +36,13 @@ Building across **desktop**, **web**, and **mobile**, with a growing emphasis on
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="38" alt=".NET" title=".NET" />
-  <img src="https://cdn.simpleicons.org/avaloniaui/8B44AC" height="38" alt="Avalonia UI" title="Avalonia UI" />
-<img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square" height="38" alt="WebView2" title="Microsoft Edge WebView2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/avaloniaui/8B44AC" height="38" alt="Avalonia UI" title="Avalonia UI" />
   <img src="https://cdn.simpleicons.org/tauri/FFC131" height="38" alt="Tauri" title="Tauri" />
+  <img src="https://img.shields.io/badge/WebView2-0078D4?style=flat-square" height="38" alt="WebView2" title="Microsoft Edge WebView2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="38" alt="Flutter" title="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="38" alt="Dart" title="Dart" />
